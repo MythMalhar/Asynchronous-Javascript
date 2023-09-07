@@ -1,0 +1,19 @@
+[
+    {
+        "name" : "abc2",
+        "age" : 24,
+        "skill" : "JavaScript"
+    },
+
+    {
+        "name" : "def",
+        "age" : 23,
+        "skill" : "JavaScript"
+    },
+
+    {
+        "name" : "ghi",
+        "age" : 22,
+        "skill" : "JavaScript"
+    }
+]
